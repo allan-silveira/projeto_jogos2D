@@ -1,0 +1,1771 @@
+fileFormatVersion: 2
+guid: 19762801639a1c145867a44b92cbb5ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3214339300462549049
+    second: orochimaru_0
+  - first:
+      213: -1564867492991295109
+    second: orochimaru_1
+  - first:
+      213: -7914488127621150085
+    second: orochimaru_2
+  - first:
+      213: -1781661058192867392
+    second: orochimaru_3
+  - first:
+      213: 7877411136038528513
+    second: orochimaru_4
+  - first:
+      213: 3223546071335334161
+    second: orochimaru_5
+  - first:
+      213: 5316441975388991444
+    second: orochimaru_6
+  - first:
+      213: 952661177770985992
+    second: orochimaru_7
+  - first:
+      213: 4721136688331215565
+    second: orochimaru_8
+  - first:
+      213: -4654333665483753149
+    second: orochimaru_9
+  - first:
+      213: -2748013361314807232
+    second: orochimaru_10
+  - first:
+      213: -2180857756097719347
+    second: orochimaru_11
+  - first:
+      213: -9041166555535356692
+    second: orochimaru_12
+  - first:
+      213: -3292494684332544986
+    second: orochimaru_13
+  - first:
+      213: 913157513436437549
+    second: orochimaru_14
+  - first:
+      213: 4940969120618794027
+    second: orochimaru_15
+  - first:
+      213: 7250206332821766654
+    second: orochimaru_16
+  - first:
+      213: 7637600644291715397
+    second: orochimaru_17
+  - first:
+      213: 5068852127222095859
+    second: orochimaru_18
+  - first:
+      213: 364449225524568290
+    second: orochimaru_19
+  - first:
+      213: -6792778011672060718
+    second: orochimaru_20
+  - first:
+      213: 371569617983988547
+    second: orochimaru_21
+  - first:
+      213: 7008645615004449385
+    second: orochimaru_22
+  - first:
+      213: 5886992307497176295
+    second: orochimaru_23
+  - first:
+      213: 1738935375299519920
+    second: orochimaru_24
+  - first:
+      213: 8536743686713361632
+    second: orochimaru_25
+  - first:
+      213: 5939701319598835194
+    second: orochimaru_26
+  - first:
+      213: 1463997900009491661
+    second: orochimaru_27
+  - first:
+      213: 9051973534984674700
+    second: orochimaru_28
+  - first:
+      213: 8159811728662723005
+    second: orochimaru_29
+  - first:
+      213: 5801147385613839430
+    second: orochimaru_30
+  - first:
+      213: 5377063757301345554
+    second: orochimaru_31
+  - first:
+      213: 8613613921933089495
+    second: orochimaru_32
+  - first:
+      213: 419419763440930987
+    second: orochimaru_33
+  - first:
+      213: 8623322096138002159
+    second: orochimaru_34
+  - first:
+      213: 5421882546389861649
+    second: orochimaru_35
+  - first:
+      213: -2680402405674000795
+    second: orochimaru_36
+  - first:
+      213: 8834725238379009149
+    second: orochimaru_37
+  - first:
+      213: 381647398187416748
+    second: orochimaru_38
+  - first:
+      213: -1621431561389238675
+    second: orochimaru_39
+  - first:
+      213: 5689860937689513890
+    second: orochimaru_40
+  - first:
+      213: -564887903391452894
+    second: orochimaru_41
+  - first:
+      213: 2079009991053708485
+    second: orochimaru_42
+  - first:
+      213: 4126649778838928681
+    second: orochimaru_43
+  - first:
+      213: -3541513701887618499
+    second: orochimaru_44
+  - first:
+      213: -2335819666718922547
+    second: orochimaru_45
+  - first:
+      213: -1905300392028593493
+    second: orochimaru_46
+  - first:
+      213: 3994737111063481854
+    second: orochimaru_47
+  - first:
+      213: -6898582135399006491
+    second: orochimaru_48
+  - first:
+      213: 2120056533977639449
+    second: orochimaru_49
+  - first:
+      213: 3360840721384412739
+    second: orochimaru_50
+  - first:
+      213: 5510821878768872954
+    second: orochimaru_51
+  - first:
+      213: -8132149691379186887
+    second: orochimaru_52
+  - first:
+      213: -2128050816601524280
+    second: orochimaru_53
+  - first:
+      213: 5952039386551859668
+    second: orochimaru_54
+  - first:
+      213: -4137644564827281762
+    second: orochimaru_55
+  - first:
+      213: 3774050461272699881
+    second: orochimaru_56
+  - first:
+      213: 2920689618607719085
+    second: orochimaru_57
+  - first:
+      213: -2970483122662353902
+    second: orochimaru_58
+  - first:
+      213: 6254767900012009307
+    second: orochimaru_59
+  - first:
+      213: 8960154041436041766
+    second: orochimaru_60
+  - first:
+      213: 7691512813619330903
+    second: orochimaru_61
+  - first:
+      213: 2975389356707138710
+    second: orochimaru_62
+  - first:
+      213: -970086634487873836
+    second: orochimaru_63
+  - first:
+      213: 6196068852064978724
+    second: orochimaru_64
+  - first:
+      213: -6565100432032464931
+    second: orochimaru_65
+  - first:
+      213: -7886274096545254603
+    second: orochimaru_66
+  - first:
+      213: -2147008418376548755
+    second: orochimaru_67
+  - first:
+      213: 1501731614543734204
+    second: orochimaru_68
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orochimaru_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72a50cf6f5463d0800000000000000
+      internalID: -3214339300462549049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 519
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a2bf5e49784ae0800000000000000
+      internalID: -1564867492991295109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 519
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a481e0bf61a2290800000000000000
+      internalID: -7914488127621150085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 532
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf744c05b44647e0800000000000000
+      internalID: -1781661058192867392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 532
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106684121bf225d60800000000000000
+      internalID: 7877411136038528513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 532
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117c03a2165cbc20800000000000000
+      internalID: 3223546071335334161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 532
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df69041fcbc7c940800000000000000
+      internalID: 5316441975388991444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 532
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a48543b48883d00800000000000000
+      internalID: 952661177770985992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 532
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2db0cedc8d48140800000000000000
+      internalID: 4721136688331215565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 484
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349f2b2e03c786fb0800000000000000
+      internalID: -4654333665483753149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 481
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042cdc058681dd9d0800000000000000
+      internalID: -2748013361314807232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 480
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d32eec690cb1e0800000000000000
+      internalID: -2180857756097719347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec4c2e7be2578280800000000000000
+      internalID: -9041166555535356692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 481
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c2f7b6785be42d0800000000000000
+      internalID: -3292494684332544986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 489
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c9b5c9bef2cac00800000000000000
+      internalID: 913157513436437549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 481
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c48a0ac39d19440800000000000000
+      internalID: 4940969120618794027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 454
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef101281f38ed9460800000000000000
+      internalID: 7250206332821766654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 455
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416d4bf1553ef960800000000000000
+      internalID: 7637600644291715397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 455
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff5e0e572e285640800000000000000
+      internalID: 5068852127222095859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 455
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ee02c3a8ce0500800000000000000
+      internalID: 364449225524568290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 454
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd33853643bb1a0800000000000000
+      internalID: -6792778011672060718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 455
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34363415994182500800000000000000
+      internalID: 371569617983988547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 456
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a70fead06b34160800000000000000
+      internalID: 7008645615004449385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 455
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec83d3205cc2b150800000000000000
+      internalID: 5886992307497176295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 417
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a614b280f12810800000000000000
+      internalID: 1738935375299519920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 417
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4cb19472b987670800000000000000
+      internalID: 8536743686713361632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 416
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58b9a51ee0e6250800000000000000
+      internalID: 5939701319598835194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 417
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcccbfd555a215410800000000000000
+      internalID: 1463997900009491661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 417
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d9ffc78f11f9d70800000000000000
+      internalID: 9051973534984674700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 417
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f101e8897d3170800000000000000
+      internalID: 8159811728662723005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 417
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce239bfc0d18050800000000000000
+      internalID: 5801147385613839430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 414
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21de2949ffa2f9a40800000000000000
+      internalID: 5377063757301345554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 416
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5e21a934b98770800000000000000
+      internalID: 8613613921933089495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 385
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0dcab7d0412d500800000000000000
+      internalID: 419419763440930987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee151412c13ca770800000000000000
+      internalID: 8623322096138002159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 382
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115457713756e3b40800000000000000
+      internalID: 5421882546389861649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 381
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed2b2a63c4dcad0800000000000000
+      internalID: -2680402405674000795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 380
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7452c1cbcf3b9a70800000000000000
+      internalID: 8834725238379009149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 380
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacb96e5942eb4500800000000000000
+      internalID: 381647398187416748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 378
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6699cbe5948f79e0800000000000000
+      internalID: -1621431561389238675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 379
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afba5c606276fe40800000000000000
+      internalID: 5689860937689513890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 346
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ff6cd17d1928f0800000000000000
+      internalID: -564887903391452894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 345
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8e3162902adc10800000000000000
+      internalID: 2079009991053708485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d73242c1ec44930800000000000000
+      internalID: 4126649778838928681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325fc74d040adec0800000000000000
+      internalID: -3541513701887618499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 342
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e8d98360859fd0800000000000000
+      internalID: -2335819666718922547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 260
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba229be53630f85e0800000000000000
+      internalID: -1905300392028593493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 268
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd420ccc38207730800000000000000
+      internalID: 3994737111063481854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 290
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eebfad19105340a0800000000000000
+      internalID: -6898582135399006491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 286
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aab736f24fb6d10800000000000000
+      internalID: 2120056533977639449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 298
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34619c064da14ae20800000000000000
+      internalID: 3360840721384412739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 296
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd28781d4f5a7c40800000000000000
+      internalID: 5510821878768872954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 154
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9338a0111fcc42f80800000000000000
+      internalID: -8132149691379186887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 157
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77c74ae05a772e0800000000000000
+      internalID: -2128050816601524280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 153
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9be8c6944e99250800000000000000
+      internalID: 5952039386551859668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 155
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e4a2c0322496c0800000000000000
+      internalID: -4137644564827281762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3fe8416ee106430800000000000000
+      internalID: 3774050461272699881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_57
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 43
+        width: 41
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c840dbbf588820800000000000000
+      internalID: 2920689618607719085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214da669659b6c6d0800000000000000
+      internalID: -2970483122662353902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_59
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 87
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b575bb014466dc650800000000000000
+      internalID: 6254767900012009307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227394b0acd85c70800000000000000
+      internalID: 8960154041436041766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 78
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3521172ebdba60800000000000000
+      internalID: 7691512813619330903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_62
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc10b0bd4ba4920800000000000000
+      internalID: 2975389356707138710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4defefd785f8982f0800000000000000
+      internalID: -970086634487873836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 56
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270233facbdcf550800000000000000
+      internalID: 6196068852064978724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 55
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff0f1c0f314e4a0800000000000000
+      internalID: -6565100432032464931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333e021e735e8290800000000000000
+      internalID: -7886274096545254603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e74e4083b4432e0800000000000000
+      internalID: -2147008418376548755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orochimaru_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56ad862f837d410800000000000000
+      internalID: 1501731614543734204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
